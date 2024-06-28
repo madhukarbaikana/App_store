@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 150px;
+    height: 180px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .app-icon {
+    width: 70%;
+  }
+  .app-name {
+    font-size: 18px;
+    font-family: 'bree serif';
+  }
+  
